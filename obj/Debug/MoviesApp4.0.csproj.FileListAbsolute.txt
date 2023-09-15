@@ -1,0 +1,11 @@
+D:\Projects\Simple Movies App\MoviesApp4.0\bin\Debug\MoviesApp4.0.exe.config
+D:\Projects\Simple Movies App\MoviesApp4.0\bin\Debug\MoviesApp4.0.exe
+D:\Projects\Simple Movies App\MoviesApp4.0\bin\Debug\MoviesApp4.0.pdb
+D:\Projects\Simple Movies App\MoviesApp4.0\bin\Debug\MoviesLibrary.dll
+D:\Projects\Simple Movies App\MoviesApp4.0\bin\Debug\MoviesLibrary.pdb
+D:\Projects\Simple Movies App\MoviesApp4.0\obj\Debug\MoviesApp4.0.csproj.AssemblyReference.cache
+D:\Projects\Simple Movies App\MoviesApp4.0\obj\Debug\MoviesApp4.0.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Simple Movies App\MoviesApp4.0\obj\Debug\MoviesApp4.0.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Movies App\MoviesApp4.0\obj\Debug\MoviesApp4.0.csproj.CopyComplete
+D:\Projects\Simple Movies App\MoviesApp4.0\obj\Debug\MoviesApp4.0.exe
+D:\Projects\Simple Movies App\MoviesApp4.0\obj\Debug\MoviesApp4.0.pdb

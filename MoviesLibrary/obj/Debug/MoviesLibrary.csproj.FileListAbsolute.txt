@@ -1,0 +1,6 @@
+D:\Projects\Simple Movies App\MoviesLibrary\obj\Debug\MoviesLibrary.csproj.AssemblyReference.cache
+D:\Projects\Simple Movies App\MoviesLibrary\obj\Debug\MoviesLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\Simple Movies App\MoviesLibrary\bin\Debug\MoviesLibrary.dll
+D:\Projects\Simple Movies App\MoviesLibrary\bin\Debug\MoviesLibrary.pdb
+D:\Projects\Simple Movies App\MoviesLibrary\obj\Debug\MoviesLibrary.dll
+D:\Projects\Simple Movies App\MoviesLibrary\obj\Debug\MoviesLibrary.pdb
